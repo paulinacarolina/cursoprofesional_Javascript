@@ -4,9 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"live-server"
   },
-  "keywords": [],
+  "keywords": [
+    "platzi"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
